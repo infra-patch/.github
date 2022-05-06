@@ -1,5 +1,23 @@
-PLAINEDIT takes markdown, evaluates code blocks with interpreters and prints the output of those processes to a different codeblock.
-Plain editor written in Bash, it's a single bash scripts with modular architecture opened for an extension scripts.
+Infra Patch Manager
+
+A tool which helps to maintain the remote infra patching. 
+There is a scenario, a distributed system is running on multiple servers.
+Repeated activity will be performed to logging in each and every server's application to apply the scenario of changes.
+
+WHat can he do for you?
++ upgrade:
+  + system
+  + apps
++ change
+  + config
+  + 
++ check and repair bugs
+  + on server
+  + dns records
+  + name server with API to registrar
+  
+it helps to maintain an upgrade at centralized place and apply at required destination with help of few scenarios.
+
 
 You like [**PlainEdit**](http://www.plainedit.com/)?  
 [![Github](https://img.shields.io/github/followers/tom-sapletta-com?label=Follow&style=social)](https://github.com/tom-sapletta-com)
