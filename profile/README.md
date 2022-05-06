@@ -19,7 +19,7 @@ WHat can he do for you?
 it helps to maintain an upgrade at centralized place and apply at required destination with help of few scenarios.
 
 
-You like [**PlainEdit**](http://www.plainedit.com/)?  
+You like [**InfraPatch**](http://www.infrapatch.com/)?  
 [![Github](https://img.shields.io/github/followers/tom-sapletta-com?label=Follow&style=social)](https://github.com/tom-sapletta-com)
 
 Support it via GitHub Sponsors: 
